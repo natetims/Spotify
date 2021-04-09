@@ -1,0 +1,45 @@
+body{font-family:sans-serif;
+text-align: center;
+background:lightgray;}
+header{letter-spacing:6px;
+background:red;
+padding:20px;
+ color:whitesmoke}
+h2{font-size:2em;
+width:100%}
+section{padding:30px;
+margin-bottom:40px;}
+.container {display:flex;
+justify-content:center;}
+.card {border:1px solid #ccc;
+background-color:blue;
+margin:25px;
+padding:25px;
+width:100px;
+justify-content:center;
+flex-basis:325px;
+box-shadow:4px 3px 2px #800000;}
+.card {border: 2px solid black;
+background-color:#b30000;
+width:100px;
+    color:white;
+    
+}
+.blue {background:red;}
+td{
+padding:10px;
+}
+table {margin:auto;
+    border:1px solid black;
+    background-color:red;}
+.button {}
+#my-order {background-color:red;
+padding:25px;
+display::none;}
+.footer {padding: 30px;
+background:#cccccc;}
+.cardtwo {
+    position:relative;
+    top:-30px;
+}
+.formsection{background:red;}
